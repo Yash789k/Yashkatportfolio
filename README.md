@@ -2,7 +2,7 @@
 #### Machine Learning and Artificial Intelligence specialist
 
 ## Experience
-###Data Analyst and IT intern @ QI group; QNet   June 2024 - August 2024
+### Data Analyst and IT intern @ QI group; QNet   June 2024 - August 2024
 • Researched and Developed classification algorithm using Python data-frames and SQL Queries on Power BI to sort 
 company data into visual presentations. 
 • Analysed Sales and customer IR data with SQL, Power Bia and Excel to call business decisions 
@@ -10,7 +10,7 @@ company data into visual presentations.
 Github codespaces and Jupyter notebook with a 97.58% accuracy through back propagation.
 __________________________________________________________________________________________________
 
-###Research Fellowship Internship @ HKU   June 2024 - August 2024
+### Research Fellowship Internship @ HKU   June 2024 - August 2024
 • Developed python algorithm to selectively identify, classify and mass download files from Sec Edgar gov page, enabled 
 the easy access to all files of N-PORT data type. 
 • Used LLM’s in Neo4j aura database to extract data from files manipulated to create knowledge graphs using Cypher and 
@@ -32,7 +32,7 @@ work and communication with sellers and manufacturers.
 Hong Kong University of Science and Technology Fall 2023 – March 2027
 • BEng (Bachelor of Engineering) in Computer Science • Coursework specialisation: Operating Systems; Databases; Algorithms; Programming Languages. 
 
-###YMCA of HKCC   Sept 2017 - June 2023
+### YMCA of HKCC   Sept 2017 - June 2023
 • Valedictorian (2020 - 2023) Chosen amongst 150 students cohort. • Best all round & third in academics (2017-2023) 
 • Hong Kong Diploma of Secondary Education 
 • IELTS Certification for English (8.0) 
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
 ### Certifications
-###Kings College London; HTML Online Course Completion 
+### Kings College London; HTML Online Course Completion 
 • MIT EdX Introduction to Computer Science and Programming Using Python Certification 
 • Coursera Google Advanced Data Analytics 
 • IBM Back-End Development Professional Certificate 
@@ -63,14 +63,14 @@ ________________________________________________________________________________
 • CodeCademy Java & C++ Course Completion 
 • Udemy Python Course Completion
 
-###Additional Experience and Awards
+### Additional Experience and Awards
 • HKUST Beyond Academic Admissions Scholarship; Coverage: 2 Years of Tuition 
 • Student Principal Nomination recipient 
 • CityU Distinguished Artwork Merit Award ( 8th HK Secondary school Artwork Exhibition ) 
 • Jockey Club Visual Arts Merit Award ( Online Youth Drawing Competition; 2023 ) 
 • HKUST International Student Association; Executive External Affairs committee member ( 2023-2027 ) 
 
-###Languages and Technologies
+### Languages and Technologies
 • C++, Python, Java, HTML, SQL / Dax Queries 
 • Visual Studio, Xcode 
 • SQL Microsoft Serve
