@@ -3,10 +3,10 @@
 
 ## Experience
 ### Data Analyst and IT intern @ QI group; QNet   June 2024 - August 2024
-• Researched and Developed classification algorithm using Python data-frames and SQL Queries on Power BI to sort 
+• 	Researched and Developed classification algorithm using Python data-frames and SQL Queries on Power BI to sort 
 company data into visual presentations. 
-• Analysed Sales and customer IR data with SQL, Power Bia and Excel to call business decisions 
-• Built a neural network as part of a collaborative team to identify business strategies and customer habit analysis on 
+• 	Analysed Sales and customer IR data with SQL, Power Bia and Excel to call business decisions 
+• 	Built a neural network as part of a collaborative team to identify business strategies and customer habit analysis on 
 Github codespaces and Jupyter notebook with a 97.58% accuracy through back propagation.
 __________________________________________________________________________________________________
 
