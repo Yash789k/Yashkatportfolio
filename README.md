@@ -44,7 +44,7 @@ ________________________________________________________________________________
 - Python 97.58% accuracy Neural Network visualizing and sorting algorithm
   -  sorted MNIST dataset of 60 000 28 x 28 images
 ### Pathfinder A* Algorithm | Github
-- /
+
 #### Code Projects:
   Calculator App (C++)
   Chess Game
