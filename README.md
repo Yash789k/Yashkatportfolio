@@ -33,7 +33,8 @@ Hong Kong University of Science and Technology Fall 2023 – March 2027
 • BEng (Bachelor of Engineering) in Computer Science • Coursework specialisation: Operating Systems; Databases; Algorithms; Programming Languages. 
 
 ### YMCA of HKCC   Sept 2017 - June 2023
-• Valedictorian (2020 - 2023) Chosen amongst 150 students cohort. • Best all round & third in academics (2017-2023) 
+• Valedictorian (2020 - 2023) Chosen amongst 150 students cohort. 
+• Best all round & third in academics (2017-2023)
 • Hong Kong Diploma of Secondary Education 
 • IELTS Certification for English (8.0) 
 • Honors in Visual Arts & Physics (2018-2023)
